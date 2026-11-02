@@ -1,2 +1,5 @@
 # Baseball_Pitch_Tracker
-Analyze different pitchers' pitch counts and analyze what pitch could come next based on count.
+Bash-based MLB pitching analysis system that tracks different pitchers' pitch counts as well
+as probabilities of next pitch based on pitch count and pitcher history.
+Using Baseball Savant for pitching history, this project will analyze total pitches, balls and strike
+percentages as well as pitch selection based on different counts.
